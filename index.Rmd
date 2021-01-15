@@ -17,6 +17,18 @@ links:
 output:
   postcards::trestles
 ---
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-77VBTQ6L3T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-77VBTQ6L3T');
+</script>
+</head>
+
 ## Current position
 
 Post-Doctoral researcher at [UMR Géographie-cités](https://www.parisgeo.cnrs.fr) and [Deezer](www.deezer.com) [Research Team](https://research.deezer.com/), within the [RECORDS](https://records.huma-num.fr/) project.
