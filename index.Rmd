@@ -36,7 +36,7 @@ Post-Doctoral researcher at [UMR Géographie-cités](https://www.parisgeo.cnrs.f
 ## Bio
 
 Robin Cura is a Doctor in Geography, with a PhD thesis focused on quantitative geography, agent-based modelling and spatial data visualization.
-With a geographical information engineering scholarship, he's interested in the development and dissemination of quantitative methods for geographic data science and to the use of exploratory and visual spatual-data analysis.
+With a geographical information engineering scholarship, he's interested in the development and dissemination of quantitative methods for geographic data science and to the use of exploratory and visual spatial-data analysis.
 
 ## Education
 
