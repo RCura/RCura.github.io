@@ -1,8 +1,10 @@
 ---
-title: Robin Cura | PhD in Geography and GIScience
+title: Robin Cura | Geography and GIScience
 image: "robin.png"
 links:
   - label: Lab page
+    url: "https://www.prodig.cnrs.fr/robin-cura/"
+  - label: Former lab page
     url: "https://geographie-cites.cnrs.fr/en/members/robin-cura/"
   - label: Scholar
     url: "https://scholar.google.fr/citations?user=kjWBWV8AAAAJ"
@@ -30,13 +32,12 @@ output:
 </head>
 
 ## Current position
-
-Post-Doctoral researcher at [Sciences Po' OSC lab](https://www.sciencespo.fr/osc/en.html) and [Deezer](www.deezer.com) [Research Team](https://research.deezer.com/), within the [RECORDS](https://records.huma-num.fr/) project.
+Associate Professor of GIScience and Geography at [Panthéon-Sorbonne University](https://geographie.pantheonsorbonne.fr/lufr-geographie), member of the [PRODIG research lab](https://www.prodig.cnrs.fr/). 
 
 ## Bio
 
-Robin Cura is a Doctor in Geography, with a PhD thesis focused on quantitative geography, agent-based modelling and spatial data visualization.
-With a geographical information engineering scholarship, he's interested in the development and dissemination of quantitative methods for geographic data science and to the use of exploratory and visual spatial-data analysis.
+Robin Cura is an Associate Professor of Geography at Panthéon-Sorbonne University. 
+His work focuses on quantitative geography, agent-based modelling and data visualization. With a background in geographic data science and geographic information engineering, he is interested in the development of quantitative methods for the exploration, vizualization and analysis of spatial data.
 
 ## Education
 
